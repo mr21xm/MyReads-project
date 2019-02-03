@@ -28,7 +28,7 @@ This app is a project from Udacity Front-End-Web Nano Degree. This app is compos
 - Books are sorted into three categories: Currently Reading, Want to Read and Read
 - To change a book's category or remove a book from the list, click on the green button on the book cover
 
-![MainPage Screen](screenshot.png)
+![MainPage Screen](screenshot.PNG)
 
 ### Resources and Documentation:
 
